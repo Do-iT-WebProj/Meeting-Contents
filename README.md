@@ -3,5 +3,5 @@
 
 - [x] [1주차 회의](https://github.com/Do-iT-WebProj/Meeting-Contents/tree/main/Day1)
 - [x] [2주차 회의](https://github.com/Do-iT-WebProj/Meeting-Contents/tree/main/Day2)
-- [ ] [3주차 회의]
+- [x] [3주차 회의](https://github.com/Do-iT-WebProj/Meeting-Contents/tree/main/Day3)
 - [ ] [4주차 회의]
